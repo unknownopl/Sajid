@@ -1,0 +1,1 @@
+console.log("Hair Haven Website Loaded.");

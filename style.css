@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fffaf5;
+    color: #333;
+}
+header {
+    background-color: black;
+    color: gold;
+    padding: 1em;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+nav ul li a {
+    color: gold;
+    text-decoration: none;
+}
+.flyer-section {
+    text-align: center;
+    padding: 20px;
+}
+.flyer-section img {
+    max-width: 90%;
+    height: auto;
+}
+footer {
+    background-color: #222;
+    color: #ccc;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
